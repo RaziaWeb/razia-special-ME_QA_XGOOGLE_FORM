@@ -16,4 +16,9 @@ public class Wrappers {
     /*
      * Write your selenium wrappers here
      */
+ // this sample Method created by me for minimal method to satisfy compiler 
+    public void sampleMethod()
+    {
+        System.out.println("Wrappers class ready");
+    }
 }
